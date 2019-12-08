@@ -1,0 +1,34 @@
+Default Compiz Config:
+
+Enable Enhanced Zoom Desktop
+Zoom in Button Shift Super Button 4
+Zoom out Button Shift Super Button 5
+
+Enable Opacity Brightness and Saturation
+
+Enable Desktop Cube.
+
+Cube Cap Colors Transparent (slider all the way left) Top and Bottom
+Skydome Choose Gradient Colors that will match the default Mint Theme
+Transparent Cube Tab Opacity During Rotation set between 5 and 15.
+Non Rotating Opacity set to Between 50 and 75
+
+Rotate Cube
+Zoom .5
+Additional Settings Speed 4
+
+3d Windows Enabled
+
+Firepaint Enabled
+Particle Settings:
+Fire Particle Number 20000
+FP Size 7
+FP Slow down .5
+FP Life .2
+
+Disable Wobbly Windows Or at least speed them WAY up.
+
+Enable Snapping Windows
+
+This is just the bare minimum I do every time I configure Compiz.  I also set the desktop to be a solid black color.
+Not sure if that can be done automatically when Compiz is enabled in the Desktop Settings Windows Menu.
